@@ -1,0 +1,3 @@
+Total run time = 46.753seconds.
+An optional solution has 10 moves :
+7U 9L 8D 8R 10D 5L 6U 10D 7L 8U 
